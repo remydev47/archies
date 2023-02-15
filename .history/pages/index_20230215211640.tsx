@@ -10,20 +10,15 @@ const Home: NextPage = () => {
         <title>ARCHIES</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-       <Hero />
-       <Aboutus/>
-       <Services/>
-       <Stats />
-       <Blog/>
-       <Teams/>
+      {/* <Hero />
       <CTA/>
-      <Footer />
-      
-      {/*<Reasons />
-      
+      <Aboutus/>
+      <Services/>
+      <Reasons />
+      <Stats />
       <Steps />
 
-      
+      <Teams/>
       <Testimonials />
       <Blog />
       <Footer /> */}

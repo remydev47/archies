@@ -14,7 +14,6 @@ const Home: NextPage = () => {
        <Aboutus/>
        <Services/>
        <Stats />
-       <Blog/>
        <Teams/>
       <CTA/>
       <Footer />

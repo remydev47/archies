@@ -11,19 +11,14 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
        <Hero />
-       <Aboutus/>
-       <Services/>
-       <Stats />
-       <Blog/>
-       <Teams/>
-      <CTA/>
-      <Footer />
-      
-      {/*<Reasons />
-      
+      {/*<CTA/>
+      <Aboutus/>
+      <Services/>
+      <Reasons />
+      <Stats />
       <Steps />
 
-      
+      <Teams/>
       <Testimonials />
       <Blog />
       <Footer /> */}

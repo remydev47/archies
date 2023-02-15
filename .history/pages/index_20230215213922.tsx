@@ -12,18 +12,14 @@ const Home: NextPage = () => {
       </Head>
        <Hero />
        <Aboutus/>
-       <Services/>
-       <Stats />
-       <Blog/>
-       <Teams/>
-      <CTA/>
-      <Footer />
+      {/*<CTA/>
       
-      {/*<Reasons />
-      
+      <Services/>
+      <Reasons />
+      <Stats />
       <Steps />
 
-      
+      <Teams/>
       <Testimonials />
       <Blog />
       <Footer /> */}
